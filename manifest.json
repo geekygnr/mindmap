@@ -1,0 +1,16 @@
+{
+    "name": "MindMap",
+    "version": "0.0.0",
+    "description": "Map relationtions within a certain topic",
+    "engines": {
+        "arangodb": "^3.0.0"
+    },
+    "author": "Bryan Heisler",
+    "license": "GPL",
+    "main": "main.js",
+    "scripts": {
+        "setup": "scripts/setup.js",
+        "teardown": "scripts/teardown.js"
+    },
+    "tests": "test/**/*.js"
+}

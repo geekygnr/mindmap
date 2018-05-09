@@ -1,2 +1,9 @@
-# mindmap
-ArangoDB Service to map out relationships
+# MindMap
+
+Map relationtions within a certain topic
+
+# License
+
+Copyright (c) 2018 Bryan Heisler
+
+License: GPL
